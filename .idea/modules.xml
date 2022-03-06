@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/a01calculadora/a01calculadora.iml" filepath="$PROJECT_DIR$/a01calculadora/a01calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/a02VariaveisDadosMatt/a02VariaveisDadosMatt.iml" filepath="$PROJECT_DIR$/a02VariaveisDadosMatt/a02VariaveisDadosMatt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a03DesafioGFT/a03DesafioGFT.iml" filepath="$PROJECT_DIR$/a03DesafioGFT/a03DesafioGFT.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>

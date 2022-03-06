@@ -1,4 +1,4 @@
-# GFT Quality Assurance #1
+# :blue_book: GFT Quality Assurance #1:blue_book:
 
 * **<span  style="color:#2471A3">Curso</span>**
   <br/>Dominando IDEs java<br/><br/>  

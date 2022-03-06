@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/a01calculadora/a01calculadora.iml" filepath="$PROJECT_DIR$/a01calculadora/a01calculadora.iml" />
-      <module fileurl="file://$PROJECT_DIR$/a02VariaveisDadosMatt/a02VariaveisDadosMatt.iml" filepath="$PROJECT_DIR$/a02VariaveisDadosMatt/a02VariaveisDadosMatt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/a03DesafioGFT/a03DesafioGFT.iml" filepath="$PROJECT_DIR$/a03DesafioGFT/a03DesafioGFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Dominando IDEs java/01 Dominando IDEs java.iml" filepath="$PROJECT_DIR$/01 Dominando IDEs java/01 Dominando IDEs java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Entendendo Métodos java/03 Entendendo Métodos java.iml" filepath="$PROJECT_DIR$/03 Entendendo Métodos java/03 Entendendo Métodos java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Desafios - GFT QA/04 Desafios - GFT QA.iml" filepath="$PROJECT_DIR$/04 Desafios - GFT QA/04 Desafios - GFT QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Variaveis, Tipos de Dados, Operadores Matematicos em java/a02VariaveisDadosMatt.iml" filepath="$PROJECT_DIR$/02 Variaveis, Tipos de Dados, Operadores Matematicos em java/a02VariaveisDadosMatt.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>

@@ -1,6 +1,6 @@
 package com.exemplo.a01conceito;
 
-public class Conceito {
+public class ConceitoExercitando {
     public static void main(String[] args) {
 
         // Varias Validas  e nao Validas

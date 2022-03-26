@@ -11,7 +11,7 @@ Autor = Harari, Yuval Noah  - Livro = 21 Lições Para o Século 21, páginas: 4
 
 import java.util.*;
 
-public class ExemploOrdenacaoMap {
+public class  ExemploOrdenacaoMap {
     public static void main(String[] args) {
 
         System.out.println("--\tOrdem aleatória\t--");
